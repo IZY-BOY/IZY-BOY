@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
   - [Screenshot](#screenshot)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -15,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](images/Screenshot-desktop-view.png)
 ![](images/Screenshot-mobile-view.png)
-
-## My process
 
 ### Built with
 
@@ -35,11 +32,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
 ```
 
-### Continued development
-
-
 ## Author
 
 - Frontend Mentor - [@IZY_BOY](https://www.frontendmentor.io/profile/IZY_BOY)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
